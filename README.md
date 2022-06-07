@@ -3,17 +3,15 @@
 
 This dataset contains a sample from our Stock Sentiment Analysis dataset, a dataset of online mentions of publicly traded stocks, with a Positive or Negative sentiment associated with each. 
 
-Below are some examples.
+## Examples
 
-# Examples
-
-## Positive Sentiment
+### Positive Sentiment
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nice 9% pre market move for <a href="https://twitter.com/search?q=%24para&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$para</a>, pump my calls Uncle Buffett 🤑 <a href="https://t.co/8DGWrnHFlw">https://t.co/8DGWrnHFlw</a></p>&mdash; Option Retiree (@option_oracle) <a href="https://twitter.com/option_oracle/status/1526484891881377792?ref_src=twsrc%5Etfw">May 17, 2022</a></blockquote> 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/search?q=%24DDOG&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$DDOG</a> <a href="https://twitter.com/search?q=%24NET&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$NET</a> <a href="https://twitter.com/search?q=%24SNOW&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$SNOW</a> <a href="https://twitter.com/search?q=%24GTLB&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$GTLB</a> <a href="https://twitter.com/search?q=%24MDB&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$MDB</a> are all horrible businesses and sure to go to 0<br><br>Plz keep selling them indiscriminately so I can buy more shares <br><br>TY</p>&mdash; Austin Lieberman (@LiebermanAustin) <a href="https://twitter.com/LiebermanAustin/status/1526578401523470336?ref_src=twsrc%5Etfw">May 17, 2022</a></blockquote>
 
-## Negative Sentiment
+### Negative Sentiment
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s not easy to invest in Biotechs.<a href="https://twitter.com/search?q=%24XBI&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$XBI</a> is trending and down another 3.5% today.<br><br>Here&#39;s the yearly look 😬 <a href="https://t.co/LnaCaIM5Up">pic.twitter.com/LnaCaIM5Up</a></p>&mdash; Stocktwits (@Stocktwits) <a href="https://twitter.com/Stocktwits/status/1516118234352820225?ref_src=twsrc%5Etfw">April 18, 2022</a></blockquote>
 
@@ -24,7 +22,7 @@ Below are some examples.
 * `Stock Ticker`: The stock ticker identified in the Tweet, including the `$`
 * `Tweet Text`: The text of the tweet
 * `Sentiment`: The sentiment, either `Positive` or `Negative`
-* `Tweet URL`: The URL to the original tweet.
+* `Tweet URL`: The URL to the original tweet
 
 ## Future Versions
 
