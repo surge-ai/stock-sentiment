@@ -3,6 +3,9 @@
 
 This dataset contains a sample from our Stock Sentiment Analysis dataset, a dataset of online mentions of publicly traded stocks, with a Positive or Negative sentiment associated with each. Read the [blog post](https://www.surgehq.ai/blog/sentiment-analysis-dataset-of-social-media-conversations) describing it in more detail!
 
+![doge-doge-coin](https://user-images.githubusercontent.com/102375/172500179-4c692866-794d-42bb-803d-5485e43f3ee9.gif)
+
+
 ## Examples
 
 ### Positive Sentiment
