@@ -1,7 +1,7 @@
 # Sentiment Analysis Dataset: Stock Discussions on Social Media
 *by [Surge AI, the world's most powerful data labeling platform and workforce](https://www.surgehq.ai/)*
 
-This dataset contains a sample from our Stock Sentiment Analysis dataset, a dataset of online mentions of publicly traded stocks, with a Positive or Negative sentiment associated with each. 
+This dataset contains a sample from our Stock Sentiment Analysis dataset, a dataset of online mentions of publicly traded stocks, with a Positive or Negative sentiment associated with each. Read the [blog post](https://www.surgehq.ai/blog/sentiment-analysis-dataset-of-social-media-conversations) describing it in more detail!
 
 ## Examples
 
