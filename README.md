@@ -27,9 +27,11 @@ This dataset contains a sample from our Stock Sentiment Analysis dataset, a coll
 * `Sentiment`: The sentiment, either `Positive` or `Negative`
 * `Tweet URL`: The URL to the original tweet
 
-## Future Versions
+## Future Versions and More Datasets
 
 We'll be adding more data points and social media sources over time.
+
+You can also check out our other free datasets [here](https://www.surgehq.ai/datasets).
 
 Follow us on Twitter at [@HelloSurgeAI](http://twitter.com/@HelloSurgeAI) to receive updates and be the first to learn about new datasets!
 
